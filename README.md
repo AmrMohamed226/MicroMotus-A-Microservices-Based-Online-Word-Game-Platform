@@ -1,4 +1,4 @@
-# Microservices Project
+# MicroMotus-A-Microservices-Based-Online-Word-Game-Platform
 ### Group members
 - Amr Mohamed
 - Anh Thu DOAN

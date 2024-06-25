@@ -1,9 +1,4 @@
 # MicroMotus-A-Microservices-Based-Online-Word-Game-Platform
-### Group members
-- Amr Mohamed
-- Anh Thu DOAN
-- Mazen Gamdou
-
 ## How it works ?
 Download the github repository, open a terminal at the root of the project. Run the following command:
 
